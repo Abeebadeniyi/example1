@@ -1,3 +1,4 @@
 hello
 hello world
 line added from github
+a line from the command line
